@@ -1,0 +1,26 @@
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import About from "./components/About";
+import Projects from "./components/Projects";
+import SpaProject from "./components/SpaProject";
+import Contact from "./components/Contact";
+
+function App() {
+  return (
+    <div className="bg-[#010c15] text-gray-100 min-h-screen font-sans antialiased">
+      <Navbar />
+
+      <Hero />
+
+      <About />
+
+      <Projects />
+
+      <SpaProject />
+
+      <Contact />
+    </div>
+  );
+}
+
+export default App;
