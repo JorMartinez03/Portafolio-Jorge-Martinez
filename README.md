@@ -38,22 +38,6 @@ src/
 | **SCRUMVERSO** | Espacio informativo sobre metodologías ágiles | [Enlace](https://jormartinez03.github.io/SCRUMVERSO/) |
 | **PitLane SPA** | Calendario y clasificaciones de 7 categorías de motorsport | [Enlace](https://pit-lane-spa.vercel.app/) |
 
-## Instalación y ejecución local
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/JorMartinez03/Portafolio-Jorge-Martinez.git
-cd Portafolio-Jorge-Martinez
-
-# Instalar dependencias
-npm install
-
-# Iniciar servidor de desarrollo
-npm run dev
-```
-
-El servidor estará disponible en `http://localhost:5173`.
-
 ## Scripts disponibles
 
 | Comando | Descripción |
