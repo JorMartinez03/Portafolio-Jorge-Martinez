@@ -24,7 +24,6 @@ const portfolioData = {
 
   skills: [
     "React.js",
-    "React.js",
     "JavaScript (ES6+)",
     "Tailwind CSS",
     "HTML5 & CSS3",
@@ -52,7 +51,7 @@ const portfolioData = {
       title: "ElicitApp | Simulador de ingeniería de requerimientos",
       description:
         "Plataforma interactiva diseñada para simular entornos reales de elicitación de requerimientos. Permite al usuario actuar como analista de sistemas a través de casos de estudio como gestión de inventarios, apps de delivery y plataformas escolares.",
-      tags: ["React", "Vite", "Tailwind CSS", "Cohere AI SDK", "JavaScript"],
+      tags: ["React.js", "Vite", "Tailwind CSS", "Cohere AI SDK", "JavaScript"],
       images: [elicitAppImg],
       link: "https://elicit-app.vercel.app/",
     },
@@ -71,7 +70,7 @@ const portfolioData = {
       title: "SCRUMVERSO | Metodologías Ágiles",
       description:
         "Espacio colaborativo e informativo diseñado para desmitificar y profundizar en los marcos de trabajo ágiles y tradicionales (Scrum, Kanban, XP y Cascada), impulsando la eficiencia y la calidad en la ingeniería de software.",
-      tags: ["HTML", "CSS", "JavaScript"],
+      tags: ["HTML5 & CSS3", "JavaScript"],
       images: [scrumversoImg],
       link: "https://jormartinez03.github.io/SCRUMVERSO/",
     },
